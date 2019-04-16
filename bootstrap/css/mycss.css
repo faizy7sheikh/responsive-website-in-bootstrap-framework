@@ -1,0 +1,27 @@
+#cra{
+    margin-top: 60px;
+}
+.cardy{
+    margin:auto;
+    width: 20rem;
+}
+img{
+    padding:25px auto;
+}
+p{
+    padding: 8px;
+}
+.foot{
+    background-color:rgb(8, 7, 7);
+    color: white;
+    margin: 10px auto;
+    height: 30px;
+    padding: 30px;
+}
+.iconall a{
+    padding: 5px;
+    padding-top: 12px;
+}
+h6{
+    color: darkcyan;
+}

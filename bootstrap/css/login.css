@@ -1,0 +1,56 @@
+body{
+    width: 100%;
+    background-color: rgb(11, 125, 201);
+}
+.contnt{
+    margin: auto;
+    padding: auto;
+    width: 50%;
+    background-color: powderblue;
+}
+.form{
+    /*background-color: navy;
+    opacity: 0.4;*/
+    color: black;
+    font-weight: bold;
+    line-height: 30px;
+    font-family: serif,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    margin-top: 30px;
+    padding: 12px;
+    padding-left: 55px;
+    border: 1px solid coral;
+}
+.form h1{
+    padding-left: 140px;
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 35px;
+    letter-spacing: 4px;
+}
+#btn{
+    font-weight: bold;
+    padding: 6px;
+    margin-left: 140px;
+    letter-spacing: 2px;
+    margin-top: 12px;
+    background-color: rgb(11, 125, 201);
+    cursor: pointer;
+}
+#btn:hover{
+    background-color: #ffffff;
+    color: rgb(11, 125, 201);
+}
+#reg{
+    margin-left: 30px;
+    letter-spacing: 2px;
+    margin-top: 12px;
+    background-color: rgb(11, 125, 201);
+    font-weight: bold;
+    padding: 6px;
+    cursor: pointer;
+}
+#reg:hover{
+    background-color: #ffffff;
+    color: rgb(11, 125, 201);
+}
